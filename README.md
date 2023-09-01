@@ -30,7 +30,7 @@ Suppose you have a mail list text file named `mail_list.txt` containing a list o
 
 ## Note
 
-Make sure the mail list text file and the `email_divider.exe` program are in the same directory for the program to work correctly.
+Make sure the mail list text file and the `list_divider.exe` program are in the same directory for the program to work correctly.
 
 
 Happy dividing!

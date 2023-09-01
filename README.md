@@ -9,7 +9,7 @@ This Email Divider tool allows you to divide a list of emails from a text file i
 
 ## Usage
 
-1. Download the executable file `list_divider.exe` from the [Releases](https://github.com/Aymen-XH/Email-List-Divider/releases) section of this repository.
+1. Download the executable file `list_divider.exe` .
 
 2. Place the `list_divider.exe` file in the same directory as your mail list text file.
 
